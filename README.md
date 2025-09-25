@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Dhaval 👋  
 
-<!--
-**Dhaval1409/Dhaval1409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer | Building cool projects with React, Node.js, and Python.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- React, Next.js, Tailwind, Node.js, Express  
+- Python, Flask, Django  
+- Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
+
+## 🌱 Currently Learning
+- Advanced React & Three.js
+- Data Structures & Algorithms  
+
+## 📫 Connect with me
+- Email: bodardhaval86@gmail.com  
+- LinkedIn: [Your LinkedIn Profile](#)  
