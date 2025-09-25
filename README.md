@@ -13,8 +13,7 @@ I enjoy building applications and exploring new technologies.
 ---
 
 ## 📊 GitHub Stats  
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/d5389730-25e4-4e57-8eea-7bc2c6677477/rU34FQAYI6.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+![My GIF](assests/p1.gif)
 
 ---
 
