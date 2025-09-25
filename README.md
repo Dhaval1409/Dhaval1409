@@ -11,16 +11,13 @@ I enjoy building applications and exploring new technologies.
 ![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)  ![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="assests/p2.gif" width="400"/>
 </div>
-
-![My GIF](assests/p2.gif)
-<!-- <img src="assests/p1.gif" width="400"/> -->
-
 ---
+## 🔧 Technologies & Tools  
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)  ![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)  
 
 ## 🌱 Currently Learning  
 - Advanced React & Next.js  
