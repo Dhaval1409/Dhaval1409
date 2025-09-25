@@ -13,8 +13,8 @@ I enjoy building applications and exploring new technologies.
 ---
 
 ## 📊 GitHub Stats  
-![My GIF](assests/p1.gif)
-<img src="assests/p1.gif" width="400"/>
+![My GIF](assests/p2.gif)
+<!-- <img src="assests/p1.gif" width="400"/> -->
 
 ---
 
