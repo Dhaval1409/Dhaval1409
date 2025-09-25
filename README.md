@@ -1,19 +1,38 @@
 # Hi there, I'm Dhaval 👋  
 
-🚀 Aspiring Full-Stack Developer | Building cool projects with React, Node.js, and Python.  
+🚀 **Aspiring Full Stack Developer | Currently pursuing B.Tech in Computer Science**  
 
-## 🔧 Technologies & Tools
-- React, Next.js, Tailwind, Node.js, Express  
-- Python, Flask, Django  
-- Git, GitHub, VS Code  
+I have foundational full-stack knowledge including **HTML, CSS, JavaScript, Node.js, and Express.js**.  
+I enjoy building applications and exploring new technologies.  
 
-## 📊 GitHub Stats
-![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
+---
 
-## 🌱 Currently Learning
-- Advanced React & Three.js
+## 🔧 Technologies & Tools  
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)  
+![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)  
+![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Dhaval's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React & Next.js  
+- Tailwind CSS & Modern UI Design  
 - Data Structures & Algorithms  
 
-## 📫 Connect with me
-- Email: bodardhaval86@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](#)  
+---
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaval-bodar-a183b0356/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodardhaval86@gmail.com)  
+
+---
+
+✨ _“Code, Learn, and Build every day — that’s the journey!”_  
