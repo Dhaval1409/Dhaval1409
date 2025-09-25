@@ -13,7 +13,11 @@ I enjoy building applications and exploring new technologies.
 ---
 
 ## 📊 GitHub Stats  
-**********************![My GIF](assests/p2.gif)
+<div align="center">
+  <img src="assests/p2.gif" width="400"/>
+</div>
+
+![My GIF](assests/p2.gif)
 <!-- <img src="assests/p1.gif" width="400"/> -->
 
 ---
